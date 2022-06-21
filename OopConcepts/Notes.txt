@@ -1,0 +1,42 @@
+ OOP(Object Oriented Programming) CONCEPTS
+  Object 
+  Class
+  Inheritance
+  Polymorphism
+  Abstraction
+  Encapsulation
+
+
+  OBP(Object Based Programming)
+  Object Based Programming doesn't have inheritance concepts
+ 
+
+    Naming Convention - 
+     Identifier Type         Kind         Case 
+      Class                  Noun         Regular
+      Interface              Adjective    Regular
+      Method                 Verb         CamelCase
+      Variable               Any          CamelCase
+      Package                Any          Small Case
+      Constant               Any          Upper Case With Seoerated By Underscore
+
+
+== operator - Reference Comparison If both references are pointing to same object.
+Equals method - Equals method meant for reference comparison but in case of string it is meant
+for content comparison. 
+
+Object Creation in SCP and Heap -:
+
+1 - For every string literal object will be created in SCP.
+2 - For every new operator object will be created in the heap.
+3 - For runtime operation object will be created in the heap.
+
+
+
+
+      
+
+      
+
+
+ 
