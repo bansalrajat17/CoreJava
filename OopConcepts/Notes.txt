@@ -31,7 +31,7 @@ Object Creation in SCP and Heap -:
 2 - For every new operator object will be created in the heap.
 3 - For runtime operation object will be created in the heap.
 
-
+Covariant Return Type - Method Overriding is possible by changing return type. 
 
 
       

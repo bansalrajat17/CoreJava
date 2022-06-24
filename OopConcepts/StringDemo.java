@@ -1,6 +1,6 @@
-package OopConcepts;
+package oopconcepts;
 
-import javax.management.ImmutableDescriptor;
+
 
 public class StringDemo {
     public void print() {
@@ -29,9 +29,5 @@ public class StringDemo {
         StringBuffer sb = new StringBuffer(si);
         sb.append(sa);
         System.out.println(sb.toString());//IndiaVS
-
-
-
-
     }
 }
